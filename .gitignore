@@ -1,0 +1,5 @@
+./train/data/*
+core*
+*.ipynb*
+./train/matplotlib/*
+./train/bridge-urops-gcp-access-key.json
