@@ -1,4 +1,8 @@
-./train/data/*
+./train/data/alternative-masks*
+./train/data/images*
+./train/data/masks*
+./train/data/infer*
+
 core*
 *.ipynb*
 ./train/matplotlib/*
